@@ -1,4 +1,4 @@
-# Vibe Coding OS · 开工操作手册（各 Agent 通用）
+# Vibe Coding SOP · 开工操作手册（各 Agent 通用）
 
 > 配套文件：《MASTER.md》（v3.1 定稿，唯一规则源）＋《新项目操作指南.md》（你本人看的详细说明）。
 > 本手册是**开工速查**：无论你这次用豆包 / ChatGPT / Claude / Cursor / Qoder 哪个 AI，流程都完全一样——因为规则不装在 AI 脑子里，装在**项目文件夹里**。

@@ -1,6 +1,6 @@
 # Codebase Design 顶层工程原则速查
 
-> 融入 VibeCodingOS 的配套文件（不进 MASTER 启动必读，仅开发/技术方案阶段按需调用）。
+> 融入 VibeCodingSOP 的配套文件（不进 MASTER 启动必读，仅开发/技术方案阶段按需调用）。
 > 来源：Matt Pocock 的 `mattpocock/skills` 开源技能（GitHub Trending #1，82K+ stars）中 `codebase-design` 技能（SKILL.md + DEEPENING.md + DESIGN-IT-TWICE.md）；词汇根基：Ousterhout《A Philosophy of Software Design》（深模块）+ Michael Feathers 的 Seam 概念。
 > 核心主张：**踩一个坑记一条经验是永远记不完的，守住一条顶层原则能避开一大片坑。**
 

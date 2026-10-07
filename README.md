@@ -1,4 +1,4 @@
-# Vibe Coding OS
+# Vibe Coding SOP
 
 > 一个让 AI 自动管理软件开发流程的 Vibe Coding 工作系统。
 > 你不需要记 PRD、MVP、Architecture、Sprint、Task、QA……这些全部由 AI 管理。你只需要：**说想法 → 关键决策点确认 → 使用并反馈**。
@@ -24,7 +24,7 @@
 | `MASTER.md` | **唯一规则源（Agent 工作手册）**。放进项目根目录，任何 AI 读它即按同一套流程执行：需求→评估→MVP→开发→测试→验收→迭代 |
 | `新项目操作指南.md` | 给用户本人看的详细操作说明 |
 | `开工操作手册-各Agent通用.md` | 开工速查卡：无论豆包 / ChatGPT / Claude / Cursor / Qoder，流程完全一样 |
-| `VibeCodingOS-审阅稿-v3.1-定稿.md` | 封版定稿：六轮审阅账目、缺口清单、迭代协议、遗留风险 |
+| `VibeCodingSOP-审阅稿-v3.1-定稿.md` | 封版定稿：六轮审阅账目、缺口清单、迭代协议、遗留风险 |
 
 ## 快速开始（零粘贴版）
 
@@ -93,7 +93,7 @@ my-project/
 
 - **[tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn)**（Vibe Coding 从入门到精通教程｜AI 结对编程工作流）：本项目的核心方法论直接参考了该项目的理念与工作流，包括「拼好码 / 能编排不发明」「隔离审查（生成与审查分离）」「Quality Gate 分级门禁」等，并融合进 v2.0 起的版本迭代。
 - **软件工程实践**：敏捷开发、MVP 先行、小步快跑、验证证据链（命令原文 + 实际输出）、范围声明等原则。
-- **多轮 AI 审阅驱动迭代**：v2.3–v3.1 历经 Claude / Qoder / 豆包等多轮独立审阅，审阅结论回填推进版本演进（详见 `VibeCodingOS-审阅稿-v3.1-定稿.md`）。
+- **多轮 AI 审阅驱动迭代**：v2.3–v3.1 历经 Claude / Qoder / 豆包等多轮独立审阅，审阅结论回填推进版本演进（详见 `VibeCodingSOP-审阅稿-v3.1-定稿.md`）。
 
 特别感谢 vibe-coding-cn 项目作者与社区对本项目的启发。
 

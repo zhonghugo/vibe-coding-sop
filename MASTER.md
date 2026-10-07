@@ -1,4 +1,4 @@
-# Vibe Coding OS · Master Agent 工作手册 v3.1
+# Vibe Coding SOP · Master Agent 工作手册 v3.1
 
 > 五方合并版：GPT「Vibe Coding OS」骨架 + 个人《AI 沟通经验台账》内芯 + 分级敏捷评分卡 + vibe-coding-cn（拼好码 / 隔离审查 / Quality Gate）+ 三轮独立审阅报告。  
 > v2.3：采纳第一轮审阅（Claude，2026-10-05）14 项——部署阶段、成本控制、评分卡判据、隔离审查触发矩阵等。  
